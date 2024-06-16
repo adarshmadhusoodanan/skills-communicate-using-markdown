@@ -1,4 +1,4 @@
 # Adarsh Madhusoodanan
 ## Student
 ### Learning Github
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
